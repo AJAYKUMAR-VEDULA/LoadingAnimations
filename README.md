@@ -1,1 +1,2 @@
 # LoadingAnimations
+Simple Loading Animations
